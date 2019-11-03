@@ -3,9 +3,9 @@ import dlib
 from math import hypot
 from pynput.keyboard import Key,Controller
 import time
-import eyetrack
+# import eyetrack
 #import subprocess
-from multiprocessing import Process, current_process
+# from multiprocessing import Process, current_process
 
 #subprocess.call(eyetrack)
 
